@@ -1,0 +1,30 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <litle>A estrutura do html</litle>
+    <style>
+        header{
+            background-color: #FFFFFF;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 16px;
+            color:#8330AA;
+        }
+        img{
+            width: 480px;
+            heigth: 240px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Estrutura do html</h1>
+        <p>Como ele funciona?</p>
+    </header>
+    <main>
+        <img src="imagem.png" alt="Ilustração divida em duas partes explicando o HTML. À esquerda "
+    </main>
+</body>
+</html>
