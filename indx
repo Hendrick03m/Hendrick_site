@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>A estrutura do html</title>
+    <title>A estrutura do HTML</title>
     <style>
         header{
             background-color: #FFFFFF;
@@ -20,13 +20,13 @@
 </head>
 <body>
     <header>
-        <h1>Estrutura do html</h1>
+        <h1>Estrutura do HTML</h1>
         <p>Como ele funciona?</p>
     </header>
     <main>
-        <img src="imagem.png" alt="Ilustração divida em duas partes explicando o HTML. À esquerda, um editor de código com as tags essenciais destacadas. Linhas explicativas conectam cada tag ao navegador no lado direito, mostrando como o código se transforma no título da aba e no conteúdo visual da página.">
-        <h1>Olá!</h1>
-        <h2>Compartilhando o meu conteúdo sobre o html e como ele funciona</h2>
+        <img src="imagem.png" alt="Ilustração dividida em duas partes explicando o HTML. À esquerda, um editor de código com as tags essenciais destacadas. Linhas explicativas conectam cada tag ao navegador no lado direito, mostrando como o código se transforma no título da aba e no conteúdo visual da página.">
+        <h2>Olá!</h2>
+        <h3>Compartilhando o meu conteúdo sobre o HTML e como ele funciona</h3>
         <p>Por: SEU NOME COMPLETO </p>
 
     </main>
